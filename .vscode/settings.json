@@ -6,7 +6,7 @@
         "**/.devcontainer": true,
         "**/.vscode": true,
         "**/.gitignore": true,
-        "**/.github": true,
+        "**/.github": true
     },
     "java.server.launchMode": "Standard",
     "java.dependency.packagePresentation": "flat",
@@ -24,4 +24,5 @@
     },
     "workbench.colorTheme": "Default Dark Modern",
     "terminal.integrated.suggestEnabled": true,
+    "task.allowAutomaticTasks": "on"
 }
